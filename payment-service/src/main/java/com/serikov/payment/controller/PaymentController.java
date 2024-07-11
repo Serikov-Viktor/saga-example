@@ -29,12 +29,6 @@ public class PaymentController {
     @PostMapping("/reverse")
     public void credit(@RequestBody PaymentRequestDTO requestDTO) {
         log.info("Reverse payment for request: " + requestDTO);
-
-        int[] array = new int[4];
-
-        int i = array[1];
-
-        array.
         this.service.reversePayment(requestDTO);
     }
 
