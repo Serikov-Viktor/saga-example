@@ -1,0 +1,14 @@
+com\serikov\inventory\repository\ProductRepo.class
+com\serikov\inventory\transformer\ProductTransformer.class
+com\serikov\inventory\entity\Product.class
+com\serikov\inventory\exception\ProductNotFoundException.class
+com\serikov\inventory\transformer\ProductTransformerImpl.class
+com\serikov\inventory\entity\InventoryOrder.class
+com\serikov\inventory\repository\InventoryServiceRepo.class
+com\serikov\inventory\controller\InventoryController.class
+com\serikov\inventory\transformer\InventoryTransformer.class
+com\serikov\inventory\service\InventoryService.class
+com\serikov\inventory\config\SwaggerConfig.class
+com\serikov\inventory\controller\ProductController.class
+com\serikov\inventory\InventoryApplication.class
+com\serikov\inventory\service\ProductService.class

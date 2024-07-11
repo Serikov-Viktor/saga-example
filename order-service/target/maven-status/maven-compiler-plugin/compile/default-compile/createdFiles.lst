@@ -1,0 +1,17 @@
+com\serikov\order\client\PaymentServiceClient.class
+com\serikov\order\controller\InventoryProductController.class
+com\serikov\order\controller\OrderController.class
+com\serikov\order\config\SwaggerConfig.class
+com\serikov\order\controller\PaymentController.class
+com\serikov\order\OrderServiceApplication.class
+com\serikov\order\service\OrderEventUpdateService.class
+com\serikov\order\entity\PurchaseOrder.class
+com\serikov\order\config\SecurityConfiguration.class
+com\serikov\order\service\PaymentService.class
+com\serikov\order\config\OrderConfig.class
+com\serikov\order\eventhandlers\OrderEventHandler.class
+com\serikov\order\service\ProductService.class
+com\serikov\order\controller\InventoryOrderController.class
+com\serikov\order\client\ProductServiceClient.class
+com\serikov\order\service\OrderService.class
+com\serikov\order\repository\PurchaseOrderRepository.class

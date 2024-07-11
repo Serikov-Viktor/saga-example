@@ -1,0 +1,11 @@
+com\serikov\saga\service\steps\WorkflowStep.class
+com\serikov\saga\config\OrchestratorConfig.class
+com\serikov\saga\service\OrchestratorService.class
+com\serikov\saga\service\steps\InventoryStep.class
+com\serikov\saga\service\WorkflowStepStatus.class
+com\serikov\saga\service\exeption\WorkflowException.class
+com\serikov\saga\config\WebClientConfig.class
+com\serikov\saga\OrchestratorApplication.class
+com\serikov\saga\service\OrderWorkflow.class
+com\serikov\saga\service\steps\PaymentStep.class
+com\serikov\saga\service\Workflow.class

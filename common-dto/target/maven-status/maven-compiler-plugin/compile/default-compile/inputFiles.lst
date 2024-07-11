@@ -1,0 +1,13 @@
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\enums\InventoryStatus.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\dto\OrchestratorResponseDTO.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\dto\OrderRequestDTO.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\dto\OrderResponseDTO.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\dto\InventoryResponseDTO.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\enums\ProductType.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\dto\PaymentRequestDTO.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\enums\PaymentStatus.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\dto\OrchestratorRequestDTO.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\dto\PaymentResponseDTO.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\dto\InventoryRequestDTO.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\dto\ProductDTO.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\common-dto\src\main\java\com\serikov\enums\OrderStatus.java

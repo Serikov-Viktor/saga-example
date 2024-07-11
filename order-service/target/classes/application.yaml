@@ -1,0 +1,15 @@
+service:
+  endpoints:
+    inventory: http://inventory-service:8081
+    payment: http://payment-service:8082
+
+server:
+  port: 8080
+spring.cloud.stream:
+  function:
+    definition: supplier;consumer
+  bindings:
+    supplier-out-0:
+      destination: order-created
+    consumer-in-0:
+      destination: order-updated

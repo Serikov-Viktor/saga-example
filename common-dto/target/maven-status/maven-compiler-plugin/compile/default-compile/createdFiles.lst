@@ -1,0 +1,13 @@
+com\serikov\dto\OrchestratorResponseDTO.class
+com\serikov\dto\OrderResponseDTO.class
+com\serikov\enums\InventoryStatus.class
+com\serikov\enums\ProductType.class
+com\serikov\dto\OrchestratorRequestDTO.class
+com\serikov\dto\ProductDTO.class
+com\serikov\dto\InventoryResponseDTO.class
+com\serikov\dto\PaymentResponseDTO.class
+com\serikov\enums\OrderStatus.class
+com\serikov\dto\InventoryRequestDTO.class
+com\serikov\dto\OrderRequestDTO.class
+com\serikov\dto\PaymentRequestDTO.class
+com\serikov\enums\PaymentStatus.class

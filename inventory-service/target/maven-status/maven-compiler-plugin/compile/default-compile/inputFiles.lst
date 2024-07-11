@@ -1,0 +1,14 @@
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\repository\InventoryServiceRepo.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\transformer\ProductTransformerImpl.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\config\SwaggerConfig.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\transformer\InventoryTransformer.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\service\InventoryService.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\controller\InventoryController.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\InventoryApplication.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\service\ProductService.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\exception\ProductNotFoundException.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\controller\ProductController.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\repository\ProductRepo.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\transformer\ProductTransformer.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\entity\InventoryOrder.java
+C:\Users\Admin\vinsguru-blog-code-samples\architectural-pattern\saga-orchestration\inventory-service\src\main\java\com\serikov\inventory\entity\Product.java
